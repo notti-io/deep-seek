@@ -36,7 +36,7 @@
     "jstoxml": "^5.0.1",
     "ky": "^1.2.0",
     "llm-api": "^1.5.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lucide-react": "^0.338.0",
     "metaphor-node": "^1.0.30",
     "next": "14.1.3",
